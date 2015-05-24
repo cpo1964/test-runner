@@ -1,2 +1,2 @@
 # test-runner
-a test runner driven by generic data sources (xls, csv, data base, ...)
+a test runner for software applications driven by data sources (xls, csv, data base, ...)
